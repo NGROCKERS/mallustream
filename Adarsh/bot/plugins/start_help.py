@@ -243,7 +243,7 @@ async def about_handler(bot, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [InlineKeyboardButton("𝙶𝚁𝙾𝚄𝙿 ⚡", url="https://t.me/+47Y8rP4PnTU1NTM0"), InlineKeyboardButton("🌹 C𝐫𝐞𝐚𝐭𝐢𝐯𝐞𝐬", url="https://t.me/mrcupdate")],
-                [InlineKeyboardButton("💎 Dj", url="https://t.me/adarhmedias")]
+                [InlineKeyboardButton("💎 Dj", url="https://t.me/adarhmedia")]
             ]
         )
     )
