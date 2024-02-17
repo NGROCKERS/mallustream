@@ -225,7 +225,7 @@ async def about_handler(bot, message):
                 disable_web_page_preview=True)
             return
     await message.reply_photo(
-            photo="https://graph.org/file/7ee9ecea6d372c15f1392.jpg",
+            photo="https://telegra.ph/file/df2e20f250a1ed8330a1b.jpg",
             caption="""<b>sᴏᴍᴇ ʜɪᴅᴅᴇɴ ᴅᴇᴛᴀɪʟs😜</b>
 
 <b>╭━━━━━━━〔ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ〕</b>
