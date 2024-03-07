@@ -230,20 +230,20 @@ async def about_handler(bot, message):
 
 <b>╭━━━━━━━〔ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ〕</b>
 ┃
-┣⪼<b>Rules ❣️ : <a href='https://t.me/mrcupdate'>MRC</a></b>
+┣⪼<b>📣👑MAIN📢❣️ : <a href='https://t.me/mrcupdate'>MRC</a></b>
 ┣⪼<b>ᴄᴏɴᴛᴀᴄᴛ : <a href='https://t.me/ngrocker'>SUPPORT</a></b>
 ┣⪼<b>Group : <a href='https://t.me/+QMSQW9_Rbyk4NGU0'>Group</a></b>
 ┣⪼<b>sᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ</b>
 ┣⪼<b>ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ</b>
 ┣⪼<b>ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3</b>
 ┃
-<b>╰━━━━━━━〔Sed sᴜᴘᴘᴏʀᴛ〕</b>""",
+<b>╰━━━━━━━〔Send sᴜᴘᴘᴏʀᴛ〕</b>""",
   
         
         reply_markup=InlineKeyboardMarkup(
             [
                 [InlineKeyboardButton("𝙶𝚁𝙾𝚄𝙿 ⚡", url="https://t.me/+QMSQW9_Rbyk4NGU0"), InlineKeyboardButton("🌹 C𝐫𝐞𝐚𝐭𝐢𝐯𝐞𝐬", url="https://t.me/mrcupdate")],
-                [InlineKeyboardButton("💎 Dj", url="https://t.me/adarhmedias")]
+                [InlineKeyboardButton("💎 Dj", url="https://t.me/adarshmedias")]
             ]
         )
     )
