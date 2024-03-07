@@ -61,8 +61,8 @@ async def start(b, m):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [InlineKeyboardButton("Rules ❣️", url="https://t.me/mrcupdate"), InlineKeyboardButton("𝙲hannels 🥀", url="https://t.me/+PT-Fc1TKEsMyYTc0")],
-                    [InlineKeyboardButton(" Creaters", url="https://t.me/ngrocker"), InlineKeyboardButton("💎 DJ Remix", url="https://t.me/adarshmedias")],
-                    [InlineKeyboardButton("🥀 Group 🥀", url="https://t.me/+47Y8rP4PnTU1NTM0")]
+                    [InlineKeyboardButton(" Creator", url="https://t.me/ngrocker"), InlineKeyboardButton("💎 DJ Remix", url="https://t.me/adarshmedias")],
+                    [InlineKeyboardButton("🥀 Group 🥀", url="https://t.me/+QMSQW9_Rbyk4NGU0")]
                 ]
             ),
             
@@ -179,8 +179,8 @@ async def help_handler(bot, message):
         reply_markup=InlineKeyboardMarkup(
             [
                [InlineKeyboardButton("Rules ❣️", url="https://t.me/mrcupdate"), InlineKeyboardButton("𝙲hannels 🥀", url="https://t.me/+PT-Fc1TKEsMyYTc0")],
-                    [InlineKeyboardButton(" Creaters", url="https://t.me/ngrocker"), InlineKeyboardButton("💎 DJ Remix", url="https://t.me/adarshmedias")],
-                    [InlineKeyboardButton("🥀 Group 🥀", url="https://t.me/+47Y8rP4PnTU1NTM0")]
+                    [InlineKeyboardButton(" Creator", url="https://t.me/ngrocker"), InlineKeyboardButton("💎 DJ Remix", url="https://t.me/adarshmedias")],
+                    [InlineKeyboardButton("🥀 Group 🥀", url="https://t.me/+QMSQW9_Rbyk4NGU0")]
             ]
         )
     )
@@ -230,9 +230,9 @@ async def about_handler(bot, message):
 
 <b>╭━━━━━━━〔ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ〕</b>
 ┃
-┣⪼<b>Rules ❣️ : <a href='https://t.me/mrcupdate'>THALA</a></b>
-┣⪼<b>ᴄᴏɴᴛᴀᴄᴛ : <a href='https://t.me/ngrocker'>SUPPORTS</a></b>
-┣⪼<b>Group : <a href='https://t.me/+47Y8rP4PnTU1NTM0'>Group</a></b>
+┣⪼<b>Rules ❣️ : <a href='https://t.me/mrcupdate'>MRC</a></b>
+┣⪼<b>ᴄᴏɴᴛᴀᴄᴛ : <a href='https://t.me/ngrocker'>SUPPORT</a></b>
+┣⪼<b>Group : <a href='https://t.me/+QMSQW9_Rbyk4NGU0'>Group</a></b>
 ┣⪼<b>sᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ</b>
 ┣⪼<b>ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ</b>
 ┣⪼<b>ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3</b>
@@ -242,8 +242,8 @@ async def about_handler(bot, message):
         
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("𝙶𝚁𝙾𝚄𝙿 ⚡", url="https://t.me/+47Y8rP4PnTU1NTM0"), InlineKeyboardButton("🌹 C𝐫𝐞𝐚𝐭𝐢𝐯𝐞𝐬", url="https://t.me/mrcupdate")],
-                [InlineKeyboardButton("💎 Dj", url="https://t.me/adarhmedia")]
+                [InlineKeyboardButton("𝙶𝚁𝙾𝚄𝙿 ⚡", url="https://t.me/+QMSQW9_Rbyk4NGU0"), InlineKeyboardButton("🌹 C𝐫𝐞𝐚𝐭𝐢𝐯𝐞𝐬", url="https://t.me/mrcupdate")],
+                [InlineKeyboardButton("💎 Dj", url="https://t.me/adarhmedias")]
             ]
         )
     )
